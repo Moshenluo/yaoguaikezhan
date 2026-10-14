@@ -4,4 +4,4 @@
 :HL["/yaoguaikezhan/_next/static/css/73f083e43a805e9f.css","style"]
 :HL["/yaoguaikezhan/_next/static/css/c0e2985e4ba986f9.css","style"]
 :HL["/yaoguaikezhan/_next/static/css/3d1248b42d314492.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"wLhpwdPlWlon9C3eR9T2r"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"XNl8FjZ8_ar9Eb38p9f7h"}
